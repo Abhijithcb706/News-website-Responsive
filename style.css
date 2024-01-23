@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header{
+  padding-left: 10px;
+}
+header h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+.hdngLogo{
+  width: 50px;
+  height: 60px;
+  margin-bottom: 2px;
+}
+.hdngs{
+ margin-left: 50px;
+  justify-content: space-between;
+}
+.hdngs a {
+  padding-left: 2px;
+  font-size: 13px;
+margin:0px 10px;
+}
+
+.navbar img {
+  max-width: 50px;
+}
+
+.hdngs a {
+  color: rgb(25, 26, 26);
+}
+.news1 {
+  margin-top: 100px;
+}
+.col-12 a {
+  text-decoration: none; /* Remove underline */
+  color: black; /* Set your custom text color */
+  margin-right: 5px;
+}
+
+.col-12 a:hover {
+  color: #333; /* Set your custom text color on hover */
+}
+footer h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.856);
+}
+
+.list-group li {
+border-style: none;
+
+}
+.cpright{
+ text-align:center ;
+}
